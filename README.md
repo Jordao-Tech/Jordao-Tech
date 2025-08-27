@@ -10,7 +10,7 @@
 
 ## 📫 Como me encontrar
   
-- 💼 [LinkedIn](www.linkedin.com/in/lucas-ggjordao) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-ggjordao) 
 - 📧 E-mail: Gabrieljordao.lg@gmail.com 
 
 

@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Lucas Gabriel
 
-<!--
-**Jordao-Tech/Jordao-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Apaixonado por tecnologia, desenvolvimento e aprendizado constante  
+🎯 Buscando evoluir como dev e contribuir com a comunidade
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias de Interesse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Python  
+- 🌐 JavaScript
+
+## 📫 Como me encontrar
+  
+- 💼 [LinkedIn](www.linkedin.com/in/lucas-ggjordao) 
+- 📧 E-mail: Gabrieljordao.lg@gmail.com 
+
+
+---
+
+> “O sucesso é a soma de pequenos esforços repetidos dia após dia.” – Robert Collier
